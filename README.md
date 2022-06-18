@@ -18,6 +18,10 @@ Cluster analysis as an unsupervised learning technique is widely implemented thr
 
 - Investigate clustering techniques as a tool to segment a Twitter dataset into labeling sample candidates.
 
+### Results
+
+Representative labeling with K-Means clustering as a semi-supervised approach to classification tasks, as initially introduced by Géron, A. 2019 in the MNIST dataset, shows promising results also on text data. The metric scores for the optimum number of training samples on Logistic Regression and KNN Classifier shows a substantial increase in performance with the proposed method. It can, therefore, be suggested as a solid alternative to select the best samples for labeling when the resources for data annotation are limited.
+
 ## About this Repository
 
 This repository contains the source code for the above-mentioned tasks, with an extended view of the results, including a more in-depth look at the clusters obtained through the proposed method. The dataset is originally available at the [Kaggle Competition page](https://www.kaggle.com/c/nlp-getting-started/overview)
