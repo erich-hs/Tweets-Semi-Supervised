@@ -21,12 +21,12 @@ Cluster analysis as an unsupervised learning technique is widely implemented thr
 
 ## Results
 
-Representative labeling with K-Means clustering as a semi-supervised approach to classification tasks, as initially introduced by Géron, A. 2019 in the MNIST dataset, shows promising results also on text data. The metric scores for the optimum number of training samples on Logistic Regression and KNN Classifier shows a substantial increase in performance with the proposed method. It can, therefore, be suggested as a solid alternative to select the best samples for labeling when the resources for data annotation are limited.
+Representative labeling with K-Means clustering as a semi-supervised approach to classification tasks, as initially introduced by Géron, A. 2019 in the MNIST dataset, shows promising results also on text data. The metric scores for the optimum number of training samples on Logistic Regression and KNN Classifier shows a substantial increase in performance with the proposed method, when compared to naively selected training samples. **For these baseline classification algorithms the results shows comparable metric scores using up to twenty time less data.** It can, therefore, be suggested as a solid alternative to select the best samples for labeling when the resources for data annotation are limited.
 
 ### Future research
 
 Topics to be explored that can improve clustering performance and potentially lead to better results.
-1. Implement pre-trained word embeddings to capture a semantic representation of the words. As an alternative to the proposed LSA for dimensionality reduction, word embeddings can vectorize the text into a dense geometric representation that can leverage the semantics of words.
+1. Implement pre-trained word embeddings to capture semantic representations. As an alternative to the proposed LSA for dimensionality reduction, word embeddings can vectorize the text into a dense geometric representation that can leverage the semantics of words.
 2. Introduce a topic modeling algorithm as a feature engineering task. By assigning samples to topics, they can be compared to clustering results to better assess how effectively your clustering method segmented the dataset.
 
 ### Considerations
