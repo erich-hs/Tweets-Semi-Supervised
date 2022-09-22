@@ -1,3 +1,4 @@
 medium/
 report/
-.gitignore
+/.gitignore
+/.ipynb_checkpoints
