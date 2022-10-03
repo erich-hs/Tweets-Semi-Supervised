@@ -11,6 +11,10 @@
 
 Cluster analysis as an unsupervised learning technique is widely implemented throughout many fields of data analytics. When applied to data suited for hierarchical or partitional clustering, it can provide valuable insights into latent groups of the dataset and further improve your understanding of key features that can describe and classify individuals into meaningful clusters for your use case. In this project, we explore an alternative application of partitional clustering to improve the performance of supervised learning classification tasks of text samples when the resources to label training data are limited. By introducing what we call “representative labeling” with K-Means clustering, we show a consistent improvement in classification metrics of Logistic Regression and K-Nearest Neighbors algorithms when compared to naively labeled instances.
 
+## Related Medium Article
+
+[Efficient labeling through representative samples](https://medium.com/@erich.hs/efficient-labeling-through-representative-samples-8e9b8674566c)
+
 ## Aim
 
 - Propose "representative labeling" as a tool for possible improvement on the efficiency of annotating tasks of unstructured text data.
