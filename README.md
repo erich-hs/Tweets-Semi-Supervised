@@ -6,7 +6,7 @@
   <h1 align="center">Clustering for Semi-Supervised Learning on Disasters Tweets</h1>
 </div>
 
-![Image](medium/Capa.png)
+![Image](png/Capa.png)
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
