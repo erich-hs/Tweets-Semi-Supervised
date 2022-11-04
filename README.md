@@ -6,6 +6,8 @@
   <h1 align="center">Clustering for Semi-Supervised Learning on Disasters Tweets</h1>
 </div>
 
+![Image](medium/Capa.png)
+
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
@@ -13,7 +15,7 @@ Cluster analysis as an unsupervised learning technique is widely implemented thr
 
 ## Related Medium Article
 
-I provided a detailed explanation on the methodology and results at: [Efficient labeling through representative samples](https://medium.com/@erich.hs/efficient-labeling-through-representative-samples-8e9b8674566c)
+I provided a detailed explanation on the methodology and results at my Medium Article [Efficient labeling through representative samples](https://medium.com/@erich.hs/efficient-labeling-through-representative-samples-8e9b8674566c)
 
 ## Aim
 
